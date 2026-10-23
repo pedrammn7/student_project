@@ -9,7 +9,7 @@ It contains two small scripts:
 ## How to Run
 Requirements: Python 3.8 or newer.
 ```bash
-git clone https://github.com/<username>/student_project.git
+git clone https://github.com/pedrammn7/student_project.git
 cd student_project
 python main.py
 python student.py
