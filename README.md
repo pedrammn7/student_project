@@ -1,3 +1,3 @@
 # Student Project
 
-A simple Python project for learning Git and GitHub.
+A beginner-friendly Python project to practice Git commands step by step.
